@@ -1,6 +1,6 @@
 accelerator:
   displayName: STIG'ed RabbitMQ App Starter
-  description: The really amazing STIG'ed starter we have
+  description: A STIG'ed starter to read off our enterprise Rabbit instance.
   iconUrl: https://dyltqmyl993wv.cloudfront.net/assets/stacks/rabbitmq/img/rabbitmq-stack-220x234.png
   tags: []
   options:
