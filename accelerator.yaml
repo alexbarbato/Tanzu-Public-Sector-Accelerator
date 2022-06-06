@@ -1,6 +1,6 @@
 accelerator:
   displayName: Experimental Python
-  description: The really amazing STIG'ed starter we have
+  description: A test application for our AI/ML initiative
   iconUrl: https://i5.walmartimages.com/asr/c291d5d2-85d5-4881-81be-7e6e0d5a79e1_1.10af4006f66e100cae2c38d4cfab2bce.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF
   tags: []
   options:
